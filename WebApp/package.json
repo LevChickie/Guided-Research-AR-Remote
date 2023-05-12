@@ -62,5 +62,12 @@
     "transform": [
       "babelify"
     ]
-  }
+  },
+  "main": "jest.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
